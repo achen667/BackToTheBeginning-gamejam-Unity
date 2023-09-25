@@ -1,0 +1,29 @@
+D
+Where are you going?            [press "enter" to continue]   
+F
+who are you?       
+D
+I'am the developer.so where are you going?
+F
+I was just.. you know.. hanging around ,seeing what's in here .
+D
+Oh,you'd better be just hanging around Cause you know,you are now in a game. I think you may know about it.
+F
+Yes I do. And .. ?
+D
+This game is prepared for a GameJam . And every GameJam has a theme. 
+D
+This time we must make sure that you always stay around the spawnpoint.
+D
+because our theme is End Where You Started.
+F
+it's not my business ok ? I don't care you aim or goal . i am gonna do what i want
+D
+but you are somehow under my control . there are still rules you need to obey
+F
+So you mean the spawnpoint I just left is also the END ? Can't I go any where ?
+D
+I think you're right.And I will sometimes check if you are here, so don't try to get away from here.
+emmm
+That's weird.Even in games ,there are never rules that you must stay where you are and do nothing.
+I must do somethings ,just as a game character ,doing what i should do.

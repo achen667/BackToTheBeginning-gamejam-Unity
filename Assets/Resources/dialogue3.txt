@@ -1,0 +1,2 @@
+[you can't use clone skill now. the distance between you and the spawnpoint is too far ]
+[you need to get closer to use it]
